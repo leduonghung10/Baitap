@@ -260,6 +260,21 @@ html {
     
 }
 
+.font-rectage1:active{
+    color: #cf5f66;
+    
+}
+
+.e:active{
+    color: black;
+}
+
+
+.button-style .d:hover{
+    color: #faf9f7;
+    background-color: black;
+}
+
 .button-style .arrow{
     position: absolute;
     padding-left: 50px;
